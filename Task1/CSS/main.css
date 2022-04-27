@@ -1,0 +1,27 @@
+div{
+    width: 400px;
+    height: 80px;
+    box-shadow: 11px 23px 46px 5px;
+    /* margin: 20% 0% 0% 20%; */
+    font-size: 50px;
+    padding-left: 10px;
+    border-radius: 14px;
+}
+.bi-facebook{
+    color: #335B9E;
+}
+.bi-twitter{
+    color: #1199F6;
+}
+.bi-instagram{
+    color: rgb(69,101,183);
+}
+.bi-linkedin{
+    color: rgb(0,112,184);
+}
+.bi-person-circle{
+    color: #000EF4;
+}
+a{
+    text-decoration: none;
+}
